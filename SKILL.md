@@ -1,5 +1,5 @@
 ---
-name: vibe-coding-learner
+name: vibe-upskill
 description: >-
   Extract coding knowledge from agent-assisted development sessions and convert
   them into interview-ready scenario Q&A cards and structured knowledge base
@@ -12,7 +12,7 @@ description: >-
   "review session", "debugging review", "deployment review", "复盘", "面试准备",
   "知识沉淀", "避坑清单".
 metadata:
-  chinese_name: Vibe Coding 学习者
+  chinese_name: Vibe Upskill
   version: "2.1.0"
   author: user
   tags:
@@ -23,7 +23,7 @@ metadata:
     - debugging
 ---
 
-# Vibe Coding Learner — 从 Agent 对话中提炼真正的开发能力
+# Vibe Upskill — 从 Agent 对话中提炼真正的开发能力
 
 ## 目标
 
