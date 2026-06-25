@@ -5,6 +5,7 @@
 
 <h1 align="center">🧠 vibe-coding-learner</h1>
 <h3 align="center">从 AI Agent 对话中提炼真正的开发能力</h3>
+<h3 align="center">复盘 Vibe Coding 过程，自动生成面试题与知识库</h3>
 <h4 align="center"><em>Extract Real Engineering Skills from AI Agent Conversations</em></h4>
 
 <p align="center">
@@ -22,6 +23,7 @@
 
 **将你与 AI Agent 的开发对话（需求→设计→编码→排错→部署）转化为可内化的面试场景题、避坑清单和结构化知识库。**
 *Turn your AI-agent development conversations (requirements → design → coding → debugging → deployment) into interview scenario questions, pitfall checklists, and a structured knowledge base you actually own.*
+
 
 ### 问题 / The Problem
 
